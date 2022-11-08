@@ -17,8 +17,15 @@ Secondly, the file `Visualization.ipynb` shows the visualization of the data was
 
 Finally, the file `Classification.ipynb` shows the classification performance for all different data types. Also, PCA and LDA have been compared here.
 
+### Cite the code at:
 ```
-@misc{adhikary_ghosh_nandi_2022, title={BMI Class Recognition from Respiratory Ausculation}, url={https://github.com/subhrangshu/lung-sound-bmi-classification/}, journal={GitHub}, author={Adhikary, Subhrangshu and Ghosh, Arindam and Nandi, Subrata}, year={2022}, month={Nov}} 
+@misc{adhikary_ghosh_nandi_2022,
+title={BMI Class Recognition from Respiratory Ausculation},
+url={https://github.com/subhrangshu/lung-sound-bmi-classification/},
+journal={GitHub},
+author={Adhikary, Subhrangshu and Ghosh, Arindam and Nandi, Subrata},
+year={2022},
+month={Nov}} 
 ```
 
 
