@@ -25,7 +25,7 @@ url={https://github.com/subhrangshu/lung-sound-bmi-classification/},
 journal={GitHub},
 author={Adhikary, Subhrangshu and Ghosh, Arindam and Nandi, Subrata},
 year={2022},
-doi={10.5281/zenodo.7306471},
+doi={https://doi.org/10.5281/zenodo.7306471},
 month={Nov}} 
 ```
 
