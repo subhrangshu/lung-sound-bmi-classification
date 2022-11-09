@@ -19,7 +19,7 @@ Finally, the file `Classification.ipynb` shows the classification performance fo
 
 ### Cite the code at:
 ```
-@misc{adhikary_ghosh_nandi_2022,
+@article{adhikary_ghosh_nandi_2022,
 title={BMI Class Recognition from Respiratory Ausculation},
 url={https://github.com/subhrangshu/lung-sound-bmi-classification/},
 journal={GitHub},
